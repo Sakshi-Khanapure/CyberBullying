@@ -1,5 +1,4 @@
-# CyberBullying
-Cyberbullying detection in networking platforms for Teenagers and Young Adults
+# Cyberbullying detection in networking platforms for Teenagers and Young Adults
 
 The emergence of various social media platforms has made it effortless for individuals to connect globally and
 exchange their hobbies and interests. Especially among teenagers and young adults, having a social media presence and
